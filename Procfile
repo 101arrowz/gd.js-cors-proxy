@@ -1,1 +1,1 @@
-web: CORSANYWHERE_RATELIMIT='1000 30' node server.js
+web: node server.js
