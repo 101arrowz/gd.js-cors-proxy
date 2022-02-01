@@ -1,0 +1,5 @@
+{
+    "name": "gd.js CORS Proxy",
+    "description": "A CORS-Anywhere deployment configured for use with gd.js",
+    "repository": "https://github.com/101arrowz/gd.js-cors-proxy"
+}
